@@ -1,4 +1,4 @@
-<div align="Right"><img src="images/HAMBISA_final.gif" width="800" height="300" />
+<div align="Right"><img src="images/alx.gif" width="800" height="300" />
 <div align="left"><img src="images/rsa_final.gif" width="600" height="300" />
 # RSA - factoring challenge
 
