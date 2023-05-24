@@ -1,5 +1,5 @@
-<div align="Right"><img src="images/rsa_final.gif" width="900" height="400" />
-<div align="left"><img src="images/rsa_final.gif" width="400" height="200" />
+<div align="Right"><img src="images/rsa_final.gif" width="800" height="300" />
+<div align="left"><img src="images/rsa_final.gif" width="600" height="300" />
 # RSA - factoring challenge
 
 Tasks
